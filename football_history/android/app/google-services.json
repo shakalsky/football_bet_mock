@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "852999447390",
+    "project_id": "solmaxdr",
+    "storage_bucket": "solmaxdr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852999447390:android:44ed1b2127ee520a2ce5cf",
+        "android_client_info": {
+          "package_name": "winday.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852999447390-570tp6onasb3i5c4ffvv1oll2j898nsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeE1Ob17SWZdFvyHLtMpgNLHLA34XEYV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852999447390-570tp6onasb3i5c4ffvv1oll2j898nsp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

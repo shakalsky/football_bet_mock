@@ -1,0 +1,47 @@
+name: football_history
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.0-63.1.beta <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # initial start region
+  flutter_inappwebview: ^5.7.2+3
+  firebase_core: ^2.7.0
+  firebase_remote_config: ^3.0.15
+  connectivity_plus: ^3.0.3
+  shared_preferences: ^2.0.18
+  device_info_plus: ^8.1.0
+  get: ^4.6.1
+  provider: ^6.0.4
+  loading_animation_widget: ^1.2.0+4
+  cached_network_image: ^3.2.3
+  check_vpn_connection: ^0.0.2
+  flutter_launcher_icons: ^0.13.1
+  # initial end region
+  dio: ^5.3.0
+  cupertino_icons: ^1.0.0
+  carousel_slider: ^4.2.1
+  fluttertoast: ^8.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/data/
+
+flutter_launcher_icons:
+  android: true
+  image_path: "assets/logo.png"
+  adaptive_icon_background: "#ffffff"
+  min_sdk_android: 21

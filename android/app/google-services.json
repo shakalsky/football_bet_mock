@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "130032560360",
+    "project_id": "betespmaxdr",
+    "storage_bucket": "betespmaxdr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130032560360:android:9e928108b96a2913a6c15d",
+        "android_client_info": {
+          "package_name": "cricket.players.esporte"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGSfS64j_QaRuXsdX-RtwQepZM8mWknvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

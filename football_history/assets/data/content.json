@@ -1,0 +1,56 @@
+[
+  {
+    "country_id": "6",
+    "country_name": "Spain",
+    "league_id": "300",
+    "league_name": "Copa del Rey",
+    "league_season": "2022/2023",
+    "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/300_copa-del-rey.png",
+    "country_logo": "https://apiv3.apifootball.com/badges/logo_country/6_spain.png"
+  },
+  {
+    "country_id": "6",
+    "country_name": "Spain",
+    "league_id": "302",
+    "league_name": "La Liga",
+    "league_season": "2023/2024",
+    "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/302_la-liga.png",
+    "country_logo": "https://apiv3.apifootball.com/badges/logo_country/6_spain.png"
+  },
+  {
+    "country_id": "6",
+    "country_name": "Spain",
+    "league_id": "301",
+    "league_name": "Segunda División",
+    "league_season": "2023/2024",
+    "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/301_segunda-división.png",
+    "country_logo": "https://apiv3.apifootball.com/badges/logo_country/6_spain.png"
+  },
+  {
+    "country_id": "6",
+    "country_name": "Spain",
+    "league_id": "615",
+    "league_name": "Copa Federacion",
+    "league_season": "2022/2023",
+    "league_logo": "",
+    "country_logo": "https://apiv3.apifootball.com/badges/logo_country/6_spain.png"
+  },
+  {
+    "country_id": "6",
+    "country_name": "Spain",
+    "league_id": "299",
+    "league_name": "Primera División RFEF",
+    "league_season": "2023/2024",
+    "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/299_segunda-b.png",
+    "country_logo": "https://apiv3.apifootball.com/badges/logo_country/6_spain.png"
+  },
+  {
+    "country_id": "6",
+    "country_name": "Spain",
+    "league_id": "700",
+    "league_name": "Segunda División RFEF",
+    "league_season": "2023/2024",
+    "league_logo": "",
+    "country_logo": "https://apiv3.apifootball.com/badges/logo_country/6_spain.png"
+  }
+]
